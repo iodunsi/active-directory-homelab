@@ -3,13 +3,13 @@ Built a Windows Server 2022 and Windows 11 Active Directory homelab using Oracle
 
 
 ## Environment
-Oracle VirtualBox
-Windows Server 2022
-Windows 11 Pro
-Active Directory
-DNS
-Group Policy
-Action1
+- Oracle VirtualBox
+- Windows Server 2022
+- Windows 11 Pro
+- Active Directory
+- DNS
+- Group Policy
+- Action1
 
 
 ## Network Diagram
