@@ -23,4 +23,5 @@ Windows 11 Client
 10.1.10.3
 (Domain Joined)
 
-
+## Table of Contents 
+1. [User Management](https://github.com/iodunsi/active-directory-homelab/blob/master/usermanagement.md)
