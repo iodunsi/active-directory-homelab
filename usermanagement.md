@@ -61,13 +61,13 @@ User "kw@kevtech.com" can only reset passwords, no other function as per control
 
 ## Account Lockout
 
-## User locked out of account (too many password attempts)
+### User locked out of account (too many password attempts)
 
 ![account locked out](media/acc-lockout-client.png)
 
 
 
-## Unlocking User Account
+### Unlocking User Account
 
 ![account unlocked](media/acc-unlock-server.png)
 ![account unlocked](media/acc-unlock-client.png)
