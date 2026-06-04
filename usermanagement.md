@@ -43,4 +43,33 @@ User "kw@kevtech.com" can only reset passwords, no other function as per control
 
 
 
+&ensp;&ensp;&ensp;&ensp;
+
+## Disabling / Enabling Account
+
+### Disabling the account 
+
+![Disabling new user account](media/disable-acc-server.png)
+
+
+### User disabled message
+
+
+![Disabling new user account](media/acc-disabled-client.png)
+
+&ensp;&ensp;&ensp;&ensp;
+
+## Account Lockout
+
+## User locked out of account (too many password attempts)
+
+![account locked out](media/acc-lockout-client.png)
+
+
+
+## Unlocking User Account
+
+![account unlocked](media/acc-unlock-server.png)
+![account unlocked](media/acc-unlock-client.png)
+
 
