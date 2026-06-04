@@ -1,4 +1,4 @@
-## User Management
+# User Management
 
 This page is dedicated to different excercises I completed throughout the lab to demonstrate user management within an Active Directory environment
 
