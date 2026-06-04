@@ -21,3 +21,26 @@ This page is dedicated to different excercises I completed throughout the lab to
 
 
 User "kw@kevtech.com" can only reset passwords, no other function as per control delegated.
+
+&ensp;&ensp;&ensp;&ensp;
+
+
+
+
+## Creating User Accounts 
+
+### Creating a new user account
+
+![Creating a new user account](media/new-user-proof-server.png)
+
+&ensp;
+
+
+### Logging into new user account
+
+
+![Logging into new user account](media/new-user-proof-client.png)
+
+
+
+
