@@ -73,3 +73,19 @@ User "kw@kevtech.com" can only reset passwords, no other function as per control
 ![account unlocked](media/acc-unlock-client.png)
 
 
+&ensp;&ensp;&ensp;&ensp;
+
+## Password Reset
+
+### Applying password reset setting
+
+![Password Reset](media/pass-reset-server.png)
+
+
+### User resetting password
+
+![User resetting their password](media/pass-reset-client.png)
+![User resetting their password](media/pass-reset-client-1.png)
+![User resetting their password](media/pass-reset-client-2.png)
+
+
