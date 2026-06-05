@@ -22,6 +22,15 @@
 
  Authentication restored
 
+![Client not listed under computers](media/domain-knockoff.png)
+Notice the client computer is not listed under the domain
+![Client can't log into due to domain knockoff](media/domain-knockoff-client-msg.png)
+And user cannot log into due to broken trust relationship (computer knocked off from domain)
+![Logging in as admin on client computer](media/rejoining-domain-1.png)
+Log into admin account on client computer, navigate to System >> About >> Domain and services
+![Rejoining domain](media/rejoining-domain-2.png)
+Type the name of computer to rejoin that computer to domain
+
  &ensp;&ensp;&ensp;&ensp;
 
 ## DNS Resolution Failure
