@@ -39,7 +39,7 @@ Log into admin account on client computer, navigate to System >> About >> Domain
 ![Rejoining domain](media/rejoining-domain-2.png)
 &ensp;
  &ensp;
-Type the name of computer to rejoin that computer to domain
+Type the name of computer to rejoin that computer to domain then click "Network ID" and follow the prompt. Admin password is needed.
 
 Domain Rejoined (Server)
 
