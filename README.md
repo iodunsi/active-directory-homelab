@@ -26,3 +26,4 @@ Windows 11 Client
 ## Table of Contents 
 1. [User Management](https://github.com/iodunsi/active-directory-homelab/blob/master/usermanagement.md)
 2. [Group Policy](https://github.com/iodunsi/active-directory-homelab/blob/master/group-policy.md)
+3. [Shared Drives](https://github.com/iodunsi/active-directory-homelab/blob/master/shared-drives.md)
