@@ -41,6 +41,13 @@ Log into admin account on client computer, navigate to System >> About >> Domain
  &ensp;
 Type the name of computer to rejoin that computer to domain
 
+Domain Rejoined (Server)
+
+![Domain Rejoined](media/domain-reattached.png)
+
+ &ensp;
+
+
  &ensp;&ensp;&ensp;&ensp;
 
 ## DNS Resolution Failure
