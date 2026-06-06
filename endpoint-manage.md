@@ -1,6 +1,6 @@
 # Endpoint Management
 
-This page is dedidicated to my Action1 endpoint management setup in my lab environment. Action 1 allows me to immediately identify vulnerabilites and install patches/updates.
+This page is dedidicated to my Action1 endpoint management setup in my lab environment. Action 1 allows me to immediately identify vulnerabilites and install patches/updates. It also provides an option to remotely access all endpoints. 
 
 
 &ensp;&ensp;&ensp;&ensp;
