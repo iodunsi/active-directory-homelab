@@ -29,3 +29,4 @@ Windows 11 Client
 3. [Shared Drives](https://github.com/iodunsi/active-directory-homelab/blob/master/shared-drives.md)
 4. [Remote Desktop Protocol](https://github.com/iodunsi/active-directory-homelab/blob/master/rdp.md)
 5. [Troubleshooting](https://github.com/iodunsi/active-directory-homelab/blob/master/troubleshooting.md)
+6. [Endpoint Management](https://github.com/iodunsi/active-directory-homelab/blob/master/endpoint-manage.md)
