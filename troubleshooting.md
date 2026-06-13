@@ -68,3 +68,8 @@ Changed client adapter from Bridged to Host-Only.
 ### Result
 
 Successful domain communication.
+
+![Network Adapter Mismatch](media/connect-1.png)
+
+
+[Video Explaining Solution](https://drive.google.com/file/d/19IgBufuCvDD9vvRYbsUzenD_L7NNZFvV/view?usp=sharing)
